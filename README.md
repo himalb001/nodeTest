@@ -20,4 +20,4 @@ Not all of the code is completely covered with unit test. This is due to time co
 
 Screenshot of test cases attached below:
 
-![Screenshot](/Users/himal/Documents/reckon/screenshot.png)
+![Screenshot](screenshot.png)
